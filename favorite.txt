@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 rice
 pasta
 pizza
-=======
 brave heart
 lord of the rings
 matrix reloaded
->>>>>>> movies
+
